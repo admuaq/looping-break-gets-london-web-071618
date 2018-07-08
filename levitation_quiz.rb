@@ -5,7 +5,7 @@ def levitation_quiz
   correct = "You passed the quiz!"
   
   puts "What is the spell that enacts levitation?"
-	gets.chomp
+	answer = gets.chomp
 	
 	if answer == "Wingardium Leviosa"
 	  correct
