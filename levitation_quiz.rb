@@ -11,7 +11,6 @@ def levitation_quiz
 	  puts "#{correct}"
 	end
 	
-	end
 end
 
 
