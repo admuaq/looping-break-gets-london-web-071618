@@ -4,7 +4,7 @@ def levitation_quiz
   loop do 
   correct = "You passed the quiz!"
   
-  puts "What is the spell that enacts levitation?\b"
+  puts "What is the spell that enacts levitation?"
 	gets.chomp
 
 	answer = gets.chomp
